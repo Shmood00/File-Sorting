@@ -26,7 +26,8 @@ The program will reorganize the structure as follows:
 ```
 
 # Running
-Once the repository is cloned, give the file executable permissions by running `chmod +x file_sorting.py`.
+Once the repository is cloned, give the file executable permissions by running:
+* `chmod +x file_sorting.py`.
 
 To execute, run the program as follows:
 * `./file_sorting.py -p /path/to/organize/files`
